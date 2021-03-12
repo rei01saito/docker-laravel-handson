@@ -1,6 +1,7 @@
 # docker-laravel-handson
 
 quiitaの記事を見ながらdockerでLaravelの環境構築をやってみた。
+参照元URL(https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4)
 
 ## 大まかな流れ
 1. アプリケーションサーバ（php）とWebサーバ(Nginx)とDBサーバ（MySQL）のDocker imageをpullする。
